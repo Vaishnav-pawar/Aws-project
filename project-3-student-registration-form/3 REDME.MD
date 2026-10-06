@@ -367,7 +367,10 @@ This confirms that the student data was
 
 ### Registration form
 
-![Registration-form](./images/Registration-form)
+![Registration-form](./images/Registration-form) 
+
+
+![Student Records](./images/database)
 
 
 
