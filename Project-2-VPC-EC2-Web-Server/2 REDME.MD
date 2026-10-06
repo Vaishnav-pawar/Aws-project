@@ -248,7 +248,7 @@ The webpage was successfully accessed through the EC2 public IP address.
 
 
 ### Web Page
-![Web Page](./images/web-page.png)
+![Web Page](./images/web-pag)
 
 
 
