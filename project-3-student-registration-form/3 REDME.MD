@@ -365,3 +365,10 @@ This confirms that the student data was
 ---
 
 
+### Registration Form
+
+![Student Registration Form](images/registration-form.png)
+
+
+
+
