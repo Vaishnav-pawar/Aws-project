@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AWS S3 Static Website Hosting
 
 ## 📌 Project Overview
@@ -38,4 +38,16 @@ aws-s3-static-website/
 └── README.md
 =======
 # s3-static-website-hosting
->>>>>>> ccc0fa2346ead828cf3f515198918aa95c72fbe1
+
+---
+```
+## 📸 Screenshots
+
+### uploaded file
+![S3 Bucket](./images/s3-bucket.png)
+
+### s3 buket
+![Uploaded Files](./images/upload-files.png)
+
+### Working Website
+![Working Website](./images/website.png)
