@@ -230,6 +230,26 @@ The webpage was successfully accessed through the EC2 public IP address.
 
 ---
 
+```
+## Screenshots
+
+### VPC
+![VPC](./images/vpc)
+
+
+### Security Group
+![Security Group](./images/security-group)
+
+### Internet Gateway
+![Internet Gateway](./images/internet-gateway)
+
+### Server
+![Server](./images/server)
+
+
+### Web Page
+![Web Page](./images/web-page.png)
+
 
 
 
