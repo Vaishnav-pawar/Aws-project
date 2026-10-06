@@ -363,7 +363,7 @@ This confirms that the student data was
 ```
 
 ---
-
+```
 
 ### Registration Form
 
