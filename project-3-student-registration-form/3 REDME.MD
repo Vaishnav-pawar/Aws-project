@@ -365,9 +365,11 @@ This confirms that the student data was
 ---
 ```
 
-### Registration Form
+### Registration form
 
-![Student Registration Form](images/Student Registration Form)
+![Registration form](./images/Registration form)
+
+
 
 
 
