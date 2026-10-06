@@ -367,7 +367,7 @@ This confirms that the student data was
 
 ### Registration form
 
-![Registration form](./images/app.py)
+![app.py](./images/app.py)
 
 
 
