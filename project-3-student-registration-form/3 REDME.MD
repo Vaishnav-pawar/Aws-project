@@ -372,6 +372,9 @@ This confirms that the student data was
 
 ![Student Records](./images/database)
 
+![Student Records](./images/data)
+
+
 
 
 
