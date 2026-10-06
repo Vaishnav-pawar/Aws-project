@@ -367,7 +367,7 @@ This confirms that the student data was
 
 ### Registration Form
 
-project-3-student-registration-form/images/Registration form.jpg
+project-3-student-registration-form/images/Registration form
 
 
 
